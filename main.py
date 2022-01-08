@@ -1,6 +1,6 @@
 import requests
 from pytgcalls import idle
-from callsmusic import run
+from callmusic import run
 from Spotify import __version__
 from pyrogram import Client as Bot
 from config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
